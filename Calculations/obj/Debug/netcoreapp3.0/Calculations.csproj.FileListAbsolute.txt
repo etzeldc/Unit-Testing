@@ -1,0 +1,11 @@
+C:\Users\detzel\source\repos\Calculations\Calculations\bin\Debug\netcoreapp3.0\Calculations.exe
+C:\Users\detzel\source\repos\Calculations\Calculations\bin\Debug\netcoreapp3.0\Calculations.deps.json
+C:\Users\detzel\source\repos\Calculations\Calculations\bin\Debug\netcoreapp3.0\Calculations.runtimeconfig.json
+C:\Users\detzel\source\repos\Calculations\Calculations\bin\Debug\netcoreapp3.0\Calculations.runtimeconfig.dev.json
+C:\Users\detzel\source\repos\Calculations\Calculations\bin\Debug\netcoreapp3.0\Calculations.dll
+C:\Users\detzel\source\repos\Calculations\Calculations\bin\Debug\netcoreapp3.0\Calculations.pdb
+C:\Users\detzel\source\repos\Calculations\Calculations\obj\Debug\netcoreapp3.0\Calculations.csprojAssemblyReference.cache
+C:\Users\detzel\source\repos\Calculations\Calculations\obj\Debug\netcoreapp3.0\Calculations.AssemblyInfoInputs.cache
+C:\Users\detzel\source\repos\Calculations\Calculations\obj\Debug\netcoreapp3.0\Calculations.AssemblyInfo.cs
+C:\Users\detzel\source\repos\Calculations\Calculations\obj\Debug\netcoreapp3.0\Calculations.dll
+C:\Users\detzel\source\repos\Calculations\Calculations\obj\Debug\netcoreapp3.0\Calculations.pdb
